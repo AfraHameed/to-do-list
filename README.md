@@ -13,7 +13,7 @@ This project helped me enhance my knowledge in front-end web development by prac
 
 🎨 Clean and responsive UI with a blurred glassmorphism effect
 
-💾 Saves tasks (if you extend it with localStorage)
+💾 Saves tasks
 
 🛠️ Technologies Used
 
@@ -40,4 +40,4 @@ Add LocalStorage support to persist tasks
 
 Add a filter option (All / Completed / Pending)
 
-Add a dark mode toggl
+Add a dark mode toggle
